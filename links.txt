@@ -1,0 +1,6 @@
+http://127.0.0.1:5000/add?a=5&b=3
+http://127.0.0.1:5000/subtract?a=10&b=4
+http://127.0.0.1:5000/multiply?a=6&b=7
+http://127.0.0.1:5000/divide?a=20&b=4
+http://127.0.0.1:5000/divide?a=10&b=0
+http://127.0.0.1:5000/health
